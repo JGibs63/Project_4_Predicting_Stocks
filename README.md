@@ -22,7 +22,7 @@ Contributors:
 Joshua Gibson (JGibs63)
 Andrew Clifft (DarkWolf776)
 Morgan Foge (Moisasleep)
-Jesse Brents (
+Jesse Brents (JBrents100)
 
 Works Cited:
 Data: 
