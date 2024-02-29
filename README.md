@@ -54,5 +54,6 @@ Data:
 Reference Material:
 - https://data-flair.training/blogs/stock-price-prediction-machine-learning-project-in-python/amp/
 - https://theaiquant.medium.com/forecasting-stock-returns-with-deep-learning-a-technical-approach-caccee231051
-  
+- https://www.investopedia.com/
+
 AI Help at times from ChatGPT. :)
