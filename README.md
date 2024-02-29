@@ -27,18 +27,17 @@ Usage in LSTM Model: RSI can be included as a feature in the LSTM model to detec
 3. OHLC Ratios (Open, High, Low, Close)
 Definition: OHLC ratios are calculated based on the relationship between the open, high, low, and close prices of a stock within a specific period. These ratios provide insights into the price movement and volatility of the stock.
 Usage in LSTM Model: OHLC ratios such as the daily price range (high-low), daily price change (close-open), or the ratio of close to open prices can be used as features in the LSTM model to capture price dynamics and volatility patterns.
-Incorporating Technical Indicators into LSTM Model
+
+# Incorporating Technical Indicators into LSTM Model
 Feature Engineering: Before training the LSTM model, preprocess the historical stock price data to compute the selected technical indicators.
+
 Normalization: Scale the feature values to a common range to facilitate model convergence and improve performance.
+
 Model Training: Include the computed technical indicators along with other relevant features as input to the LSTM model for training.
+
 Evaluation: Evaluate the model's performance using appropriate evaluation metrics and validate its predictive accuracy on a separate test dataset.
+
 By incorporating these technical indicators into the LSTM stock prediction model, you can improve its ability to analyze historical price data and make informed predictions about future price movements. Experiment with different combinations of indicators and model architectures to optimize performance and enhance predictive accuracy.
-
-
-
-
-
-
 
 Conclusion:
 In the end we tried many different libraries and used a lot of resources and research to look into the problems that we were having. We know that our Machine does not give a 100% readout but it does give a fairly good estimate and we think that if we had more access to more features we could make our estimate more and more accurate for each upcoming day.
