@@ -17,3 +17,12 @@ We tried using the yfinance library. This library contained formulas to add movi
 
 Conclusion:
 In the end we tried many different libraries and used a lot of resources and research to look into the problems that we were having. We know that our Machine does not give a 100% readout but it does give a fairly good estimate and we think that if we had more access to more features we could make our estimate more and more accurate for each upcoming day.
+
+Works Cited:
+Data: 
+- https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks
+Reference Material:
+- https://data-flair.training/blogs/stock-price-prediction-machine-learning-project-in-python/amp/
+- https://theaiquant.medium.com/forecasting-stock-returns-with-deep-learning-a-technical-approach-caccee231051
+  
+AI Help at times from ChatGPT. :)
